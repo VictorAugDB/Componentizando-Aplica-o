@@ -4,7 +4,6 @@ import { Content } from './components/Content';
 import './styles/global.scss';
 
 import './styles/content.scss';
-import { useState } from 'react';
 import { SidebarProvider } from './hooks/SidebarContext';
 
 interface MovieProps {
